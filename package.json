@@ -1,6 +1,6 @@
 {
-  "author": "Daniel Aranda",
   "name": "fcc-learn-npm-package-json",
+  "author": "Daniel Aranda",
   "dependencies": {
     "express": "^4.14.0"
   },
